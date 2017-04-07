@@ -13,7 +13,7 @@ import static java.lang.System.out;
 class Main {
 
     public static void main(String[] args) throws IOException {
-
+//test
         boolean exit = true;
 
         Shop shop = new Shop();
